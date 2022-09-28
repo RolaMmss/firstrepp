@@ -10,4 +10,6 @@ La modification faite en remote
 
 La modification faite en local
 
+nous allons faire un conflit de branche
+
 un texte qui n existe que sur cette branche
