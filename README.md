@@ -9,3 +9,5 @@ modified version  to push readme to Cloud Github skdfusdgf
 La modification faite en remote
 
 La modification faite en local
+
+nous allons faire un conflit de branche
